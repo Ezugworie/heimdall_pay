@@ -7,7 +7,7 @@ and debits users wallet account on the system
 
 Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
 
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js). for the Quasar documentation
 
 
 ## How to Use
@@ -26,6 +26,8 @@ run ``` php artisan queue:work ``` to watch and execute queued jobs
 
 ## End points
 ``` /users ``` fetch all users
+
+### The end points below creates and queues jobs for execution
 
 ``` /wallets/credit ``` credit all wallets with a random amount
 
