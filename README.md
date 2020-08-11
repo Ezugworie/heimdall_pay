@@ -34,4 +34,4 @@ run ``` php artisan queue:work ``` to watch and execute queued jobs
 
 ## License
 
-The Heimdall is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Heimdall pay is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
